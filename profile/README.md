@@ -6,7 +6,7 @@ This is the main GitHub organization of the Cake project.
 
 📘 Documentation is available at [cakebuild.net](https://cakebuild.net/).
 
-🗣️ [GitHub discussions](https://github.com/cake-build/cake/discussions) is the place to connect with other community members about Cake.
+🗣️ [GitHub discussions](https://github.com/orgs/cake-build/discussions) is the place to connect with other community members about Cake.
 
 ✍️ To start contributing see [Contribution guidelines](https://cakebuild.net/community/contributing/).
 
