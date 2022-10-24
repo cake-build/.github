@@ -7,7 +7,7 @@ configuration:
       content: https://raw.githubusercontent.com/dotnet-foundation/.github/main/CLA/dotnetfoundation.yml
       minimalChangeRequired: 
          files: 1
-         codeLines: 16
+         codeLines: 8
       bypassUsers:
          - dependabot[bot]
          - greenkeeper[bot]
