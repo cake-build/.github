@@ -1,4 +1,4 @@
-# GitHub default configuration files
+# GitHub default configuration files 
 
 Repository for GitHub default configuration files.
 
